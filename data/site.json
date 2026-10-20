@@ -1,0 +1,38 @@
+{
+  "name": {
+    "en": "Yousif Property Adviser",
+    "ur": "یوسف پراپرٹی ایڈوائزر"
+  },
+  "whatsappNumber": "923248446907",
+  "phoneNumber": "923248446907",
+  "phoneDisplay": "0324 8446907",
+  "email": "",
+  "address": {
+    "en": "Jatoi–Shehr Sultan Road, Shehr Sultan, Tehsil Jatoi, District Muzaffargarh, Punjab",
+    "ur": "جتوئی – شہر سلطان روڈ، شہر سلطان، تحصیل جتوئی، ضلع مظفرگڑھ، پنجاب"
+  },
+  "addressShort": {
+    "en": "Shehr Sultan, District Muzaffargarh",
+    "ur": "شہر سلطان، ضلع مظفرگڑھ"
+  },
+  "office": {
+    "street": "Jatoi–Shehr Sultan Road",
+    "town": "Shehr Sultan",
+    "district": "Muzaffargarh",
+    "region": "Punjab",
+    "country": "PK",
+    "lat": 29.5716103,
+    "lng": 71.0053785,
+    "mapsUrl": "https://www.google.com/maps/place/Yousif+property+adviser/@29.5716149,71.0028036,17z/data=!3m1!4b1!4m6!3m5!1s0x393af9fc56553b39:0x48673df46ff4947!8m2!3d29.5716103!4d71.0053785!16s%2Fg%2F11zy8stm1z"
+  },
+  "hours": {
+    "en": "Monday to Saturday, 10:00 am – 8:00 pm",
+    "ur": "پیر تا ہفتہ، صبح 10 بجے سے رات 8 بجے تک"
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "tiktok": ""
+  }
+}

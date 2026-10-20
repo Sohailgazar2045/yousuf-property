@@ -1,0 +1,868 @@
+[
+  {
+    "id": "YPA-MLN-1042",
+    "type": "residential-plot",
+    "status": "available",
+    "price": 32000000,
+    "area": {
+      "value": 1,
+      "unit": "kanal"
+    },
+    "city": "multan",
+    "society": {
+      "en": "DHA Multan",
+      "ur": "ڈی ایچ اے ملتان"
+    },
+    "block": {
+      "en": "Sector Q",
+      "ur": "سیکٹر Q"
+    },
+    "coordinates": {
+      "lat": 30.247,
+      "lng": 71.456
+    },
+    "title": {
+      "en": "1 Kanal corner plot facing park",
+      "ur": "پارک کے سامنے 1 کنال کارنر پلاٹ"
+    },
+    "description": {
+      "en": "Possession-ready 1 Kanal corner plot in Sector Q, directly facing a developed park. Development work in the sector is complete with carpeted roads, underground electricity and a gas line. All dues are cleared and the file is ready for transfer.",
+      "ur": "سیکٹر Q میں قبضے کے لیے تیار 1 کنال کارنر پلاٹ، بالکل ترقی یافتہ پارک کے سامنے۔ سیکٹر میں ترقیاتی کام مکمل ہے، پختہ سڑکیں، زیرِ زمین بجلی اور گیس لائن موجود ہیں۔ تمام واجبات ادا ہیں اور فائل ٹرانسفر کے لیے تیار ہے۔"
+    },
+    "features": [
+      {
+        "en": "Possession",
+        "ur": "قبضہ دستیاب"
+      },
+      {
+        "en": "Corner",
+        "ur": "کارنر"
+      },
+      {
+        "en": "Park facing",
+        "ur": "پارک فیسنگ"
+      },
+      {
+        "en": "All dues clear",
+        "ur": "تمام واجبات ادا"
+      }
+    ],
+    "verified": true,
+    "featured": true,
+    "listedOn": "2026-10-18",
+    "photos": [
+      {
+        "caption": "frontage",
+        "src": "/listings/ypa-mln-1042/1.jpg"
+      },
+      {
+        "caption": "boulevard",
+        "src": "/listings/ypa-mln-1042/2.jpg"
+      },
+      {
+        "caption": "park",
+        "src": "/listings/ypa-mln-1042/3.jpg"
+      },
+      {
+        "caption": "gate",
+        "src": "/listings/ypa-mln-1042/4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-MLN-1057",
+    "type": "house",
+    "status": "available",
+    "price": 21500000,
+    "area": {
+      "value": 10,
+      "unit": "marla"
+    },
+    "city": "multan",
+    "society": {
+      "en": "Buch Villas",
+      "ur": "بُچ ولاز"
+    },
+    "block": {
+      "en": "Block B",
+      "ur": "بلاک B"
+    },
+    "coordinates": {
+      "lat": 30.233,
+      "lng": 71.481
+    },
+    "beds": 5,
+    "baths": 6,
+    "title": {
+      "en": "10 Marla brand new double storey house",
+      "ur": "10 مرلہ بالکل نیا ڈبل اسٹوری مکان"
+    },
+    "description": {
+      "en": "Newly built double storey house with five bedrooms, each with an attached bath. The ground floor has a drawing room, open kitchen and TV lounge; the upper floor has three bedrooms and a terrace wired for solar panels. Sui gas and WAPDA meters are installed.",
+      "ur": "نیا تعمیر شدہ ڈبل اسٹوری مکان، پانچ بیڈروم اور ہر ایک کے ساتھ اٹیچ باتھ۔ گراؤنڈ فلور پر ڈرائنگ روم، اوپن کچن اور ٹی وی لاؤنج؛ اوپر کی منزل پر تین بیڈروم اور سولر پینلز کے لیے وائرنگ شدہ چھت۔ سوئی گیس اور واپڈا میٹر لگے ہوئے ہیں۔"
+    },
+    "features": [
+      {
+        "en": "Double storey",
+        "ur": "ڈبل اسٹوری"
+      },
+      {
+        "en": "Sui gas",
+        "ur": "سوئی گیس"
+      },
+      {
+        "en": "Solar ready",
+        "ur": "سولر کے لیے تیار"
+      }
+    ],
+    "verified": true,
+    "featured": true,
+    "listedOn": "2026-10-19",
+    "photos": [
+      {
+        "caption": "elevation",
+        "src": "/listings/ypa-mln-1057/1.jpg"
+      },
+      {
+        "caption": "drawing",
+        "src": "/listings/ypa-mln-1057/2.jpg"
+      },
+      {
+        "caption": "bedroom",
+        "src": "/listings/ypa-mln-1057/3.jpg"
+      },
+      {
+        "caption": "rooftop",
+        "src": "/listings/ypa-mln-1057/4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-MLN-1061",
+    "type": "residential-plot",
+    "status": "available",
+    "price": 6800000,
+    "area": {
+      "value": 5,
+      "unit": "marla"
+    },
+    "city": "multan",
+    "society": {
+      "en": "MDA Scheme",
+      "ur": "ایم ڈی اے اسکیم"
+    },
+    "block": {
+      "en": "Block C",
+      "ur": "بلاک C"
+    },
+    "coordinates": {
+      "lat": 30.2,
+      "lng": 71.49
+    },
+    "title": {
+      "en": "5 Marla plot on 40 ft road",
+      "ur": "40 فٹ روڈ پر 5 مرلہ پلاٹ"
+    },
+    "description": {
+      "en": "Level 5 Marla residential plot on a 40 ft road in Block C. Possession is available, boundary pillars are in place and all dues are clear. The block's mosque and market are within walking distance.",
+      "ur": "بلاک C میں 40 فٹ سڑک پر ہموار 5 مرلہ رہائشی پلاٹ۔ قبضہ دستیاب ہے، حد بندی کے پلر لگے ہیں اور تمام واجبات ادا ہیں۔ بلاک کی مسجد اور مارکیٹ پیدل فاصلے پر ہیں۔"
+    },
+    "features": [
+      {
+        "en": "Possession",
+        "ur": "قبضہ دستیاب"
+      },
+      {
+        "en": "All dues clear",
+        "ur": "تمام واجبات ادا"
+      },
+      {
+        "en": "40 ft road",
+        "ur": "40 فٹ روڈ"
+      }
+    ],
+    "verified": true,
+    "featured": false,
+    "listedOn": "2026-10-16",
+    "photos": [
+      {
+        "caption": "frontage",
+        "src": "/listings/ypa-mln-1061/1.jpg"
+      },
+      {
+        "caption": "street",
+        "src": "/listings/ypa-mln-1061/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-MLN-1069",
+    "type": "commercial",
+    "status": "available",
+    "price": 18500000,
+    "area": {
+      "value": 4,
+      "unit": "marla"
+    },
+    "city": "multan",
+    "society": {
+      "en": "Gulgasht Colony",
+      "ur": "گلگشت کالونی"
+    },
+    "block": {
+      "en": "Bosan Road",
+      "ur": "بوسن روڈ"
+    },
+    "coordinates": {
+      "lat": 30.22,
+      "lng": 71.488
+    },
+    "title": {
+      "en": "4 Marla shop on main Bosan Road",
+      "ur": "مین بوسن روڈ پر 4 مرلہ دکان"
+    },
+    "description": {
+      "en": "Ground floor shop with mezzanine on the main Bosan Road stretch of Gulgasht. Currently rented to a pharmacy at 1.6 Lac per month, so it is a ready income property. Wide frontage with steady footfall throughout the day.",
+      "ur": "گلگشت میں مین بوسن روڈ پر میزنائن کے ساتھ گراؤنڈ فلور دکان۔ اس وقت ایک فارمیسی کو 1.6 لاکھ ماہانہ کرایہ پر دی گئی ہے، یعنی فوری آمدنی والی جائیداد۔ چوڑا فرنٹ اور دن بھر گاہکوں کی آمد۔"
+    },
+    "features": [
+      {
+        "en": "Ground + mezzanine",
+        "ur": "گراؤنڈ + میزنائن"
+      },
+      {
+        "en": "Rented 1.6 Lac/month",
+        "ur": "کرایہ 1.6 لاکھ ماہانہ"
+      },
+      {
+        "en": "Main road",
+        "ur": "مین روڈ"
+      }
+    ],
+    "verified": true,
+    "featured": false,
+    "listedOn": "2026-10-14",
+    "photos": [
+      {
+        "caption": "shopfront",
+        "src": "/listings/ypa-mln-1069/1.jpg"
+      },
+      {
+        "caption": "mezzanine",
+        "src": "/listings/ypa-mln-1069/2.jpg"
+      },
+      {
+        "caption": "road",
+        "src": "/listings/ypa-mln-1069/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-MLN-1074",
+    "type": "farmhouse",
+    "status": "available",
+    "price": 47500000,
+    "area": {
+      "value": 8,
+      "unit": "kanal"
+    },
+    "city": "multan",
+    "society": {
+      "en": "Shujabad Road",
+      "ur": "شجاع آباد روڈ"
+    },
+    "block": {
+      "en": "Basti Malook",
+      "ur": "بستی ملوک"
+    },
+    "coordinates": {
+      "lat": 30.03,
+      "lng": 71.51
+    },
+    "beds": 4,
+    "baths": 4,
+    "title": {
+      "en": "8 Kanal farmhouse with mango orchard",
+      "ur": "آم کے باغ کے ساتھ 8 کنال فارم ہاؤس"
+    },
+    "description": {
+      "en": "Gated farmhouse on 8 Kanal with around 60 Chaunsa and Sindhri mango trees. Four-bedroom main house, a large lawn, staff quarter and its own tube well. Ten minutes off Shujabad Road on a metalled approach.",
+      "ur": "8 کنال پر گیٹڈ فارم ہاؤس، تقریباً 60 چونسا اور سندھڑی آم کے درخت۔ چار بیڈروم کا مرکزی گھر، بڑا لان، ملازمین کا کوارٹر اور اپنا ٹیوب ویل۔ شجاع آباد روڈ سے دس منٹ، پختہ راستہ۔"
+    },
+    "features": [
+      {
+        "en": "Mango orchard",
+        "ur": "آم کا باغ"
+      },
+      {
+        "en": "Tube well",
+        "ur": "ٹیوب ویل"
+      },
+      {
+        "en": "Boundary wall",
+        "ur": "چاردیواری"
+      },
+      {
+        "en": "Staff quarter",
+        "ur": "سرونٹ کوارٹر"
+      }
+    ],
+    "verified": true,
+    "featured": true,
+    "listedOn": "2026-10-11",
+    "photos": [
+      {
+        "caption": "lawn",
+        "src": "/listings/ypa-mln-1074/1.jpg"
+      },
+      {
+        "caption": "orchard",
+        "src": "/listings/ypa-mln-1074/2.jpg"
+      },
+      {
+        "caption": "lounge",
+        "src": "/listings/ypa-mln-1074/3.jpg"
+      },
+      {
+        "caption": "approach",
+        "src": "/listings/ypa-mln-1074/4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-MLN-1078",
+    "type": "house",
+    "status": "under-offer",
+    "price": 14000000,
+    "area": {
+      "value": 7,
+      "unit": "marla"
+    },
+    "city": "multan",
+    "society": {
+      "en": "Wapda Town",
+      "ur": "واپڈا ٹاؤن"
+    },
+    "block": {
+      "en": "Phase 1, Block E",
+      "ur": "فیز 1، بلاک E"
+    },
+    "coordinates": {
+      "lat": 30.215,
+      "lng": 71.43
+    },
+    "beds": 3,
+    "baths": 4,
+    "title": {
+      "en": "7 Marla renovated corner house",
+      "ur": "7 مرلہ تزئین شدہ کارنر مکان"
+    },
+    "description": {
+      "en": "One-and-a-half storey corner house renovated in 2025 with new flooring, kitchen and wiring. Three bedrooms, a car porch and a small front lawn. Close to the Phase 1 park and school.",
+      "ur": "ڈیڑھ منزلہ کارنر مکان جس کی 2025 میں نئی فلورنگ، کچن اور وائرنگ کے ساتھ تزئین کی گئی۔ تین بیڈروم، کار پورچ اور چھوٹا سا سامنے کا لان۔ فیز 1 کے پارک اور اسکول کے قریب۔"
+    },
+    "features": [
+      {
+        "en": "Corner",
+        "ur": "کارنر"
+      },
+      {
+        "en": "Renovated 2025",
+        "ur": "2025 میں تزئین"
+      },
+      {
+        "en": "Car porch",
+        "ur": "کار پورچ"
+      }
+    ],
+    "verified": false,
+    "featured": false,
+    "listedOn": "2026-10-08",
+    "photos": [
+      {
+        "caption": "elevation",
+        "src": "/listings/ypa-mln-1078/1.jpg"
+      },
+      {
+        "caption": "kitchen",
+        "src": "/listings/ypa-mln-1078/2.jpg"
+      },
+      {
+        "caption": "porch",
+        "src": "/listings/ypa-mln-1078/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-MZG-2011",
+    "type": "agriculture-land",
+    "status": "available",
+    "price": 66000000,
+    "area": {
+      "value": 96,
+      "unit": "kanal"
+    },
+    "city": "muzaffargarh",
+    "society": {
+      "en": "Rangpur Road",
+      "ur": "رنگ پور روڈ"
+    },
+    "block": {
+      "en": "Mouza Khangarh",
+      "ur": "موضع خان گڑھ"
+    },
+    "coordinates": {
+      "lat": 29.91,
+      "lng": 71.16
+    },
+    "title": {
+      "en": "12 Acre canal-irrigated agricultural land",
+      "ur": "12 ایکڑ نہری زرعی زمین"
+    },
+    "description": {
+      "en": "Twelve acres of fertile, canal-irrigated land currently under a wheat and cotton rotation. A watercourse runs along the boundary and the land touches a metalled road. Fard and mutation records are available for inspection.",
+      "ur": "بارہ ایکڑ زرخیز نہری زمین، اس وقت گندم اور کپاس کی فصل۔ کھال حد کے ساتھ گزرتا ہے اور زمین پختہ سڑک سے ملتی ہے۔ فرد اور انتقال کا ریکارڈ دیکھنے کے لیے دستیاب ہے۔"
+    },
+    "features": [
+      {
+        "en": "Canal water",
+        "ur": "نہری پانی"
+      },
+      {
+        "en": "Metalled road access",
+        "ur": "پختہ سڑک تک رسائی"
+      },
+      {
+        "en": "Fard available",
+        "ur": "فرد دستیاب"
+      }
+    ],
+    "verified": true,
+    "featured": true,
+    "listedOn": "2026-10-17",
+    "photos": [
+      {
+        "caption": "crop",
+        "src": "/listings/ypa-mzg-2011/1.jpg"
+      },
+      {
+        "caption": "watercourse",
+        "src": "/listings/ypa-mzg-2011/2.jpg"
+      },
+      {
+        "caption": "approach",
+        "src": "/listings/ypa-mzg-2011/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-MZG-2016",
+    "type": "residential-plot",
+    "status": "available",
+    "price": 4500000,
+    "area": {
+      "value": 5,
+      "unit": "marla"
+    },
+    "city": "muzaffargarh",
+    "society": {
+      "en": "Al-Rehman Garden",
+      "ur": "الرحمٰن گارڈن"
+    },
+    "block": {
+      "en": "Block A",
+      "ur": "بلاک A"
+    },
+    "coordinates": {
+      "lat": 30.08,
+      "lng": 71.19
+    },
+    "title": {
+      "en": "5 Marla plot near Kot Addu Road",
+      "ur": "کوٹ ادو روڈ کے قریب 5 مرلہ پلاٹ"
+    },
+    "description": {
+      "en": "Affordable 5 Marla plot in a gated society just off Kot Addu Road. Transfer ready, with electricity poles already installed in the block. A sensible option for a first home or a long-term hold.",
+      "ur": "کوٹ ادو روڈ کے قریب گیٹڈ سوسائٹی میں مناسب قیمت کا 5 مرلہ پلاٹ۔ ٹرانسفر کے لیے تیار، بلاک میں بجلی کے کھمبے لگ چکے ہیں۔ پہلے گھر یا طویل مدتی سرمایہ کاری کے لیے موزوں۔"
+    },
+    "features": [
+      {
+        "en": "Transfer ready",
+        "ur": "ٹرانسفر کے لیے تیار"
+      },
+      {
+        "en": "Gated society",
+        "ur": "گیٹڈ سوسائٹی"
+      }
+    ],
+    "verified": false,
+    "featured": false,
+    "listedOn": "2026-10-13",
+    "photos": [
+      {
+        "caption": "frontage",
+        "src": "/listings/ypa-mzg-2016/1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-MZG-2023",
+    "type": "commercial",
+    "status": "available",
+    "price": 38000000,
+    "area": {
+      "value": 2,
+      "unit": "kanal"
+    },
+    "city": "muzaffargarh",
+    "society": {
+      "en": "Alipur Road",
+      "ur": "علی پور روڈ"
+    },
+    "block": {
+      "en": "Main road frontage",
+      "ur": "مین روڈ فرنٹ"
+    },
+    "coordinates": {
+      "lat": 30.05,
+      "lng": 71.18
+    },
+    "title": {
+      "en": "2 Kanal commercial plot on Alipur Road",
+      "ur": "علی پور روڈ پر 2 کنال کمرشل پلاٹ"
+    },
+    "description": {
+      "en": "Two Kanal commercial plot with 80 ft frontage directly on Alipur Road. Suitable for a showroom, marquee or warehouse. Commercial NOC has been obtained and the title is clear.",
+      "ur": "علی پور روڈ پر براہِ راست 80 فٹ فرنٹ کے ساتھ 2 کنال کمرشل پلاٹ۔ شوروم، مارکی یا گودام کے لیے موزوں۔ کمرشل این او سی حاصل ہے اور ملکیت صاف ہے۔"
+    },
+    "features": [
+      {
+        "en": "80 ft frontage",
+        "ur": "80 فٹ فرنٹ"
+      },
+      {
+        "en": "Commercial NOC",
+        "ur": "کمرشل این او سی"
+      },
+      {
+        "en": "Clear title",
+        "ur": "صاف ملکیت"
+      }
+    ],
+    "verified": true,
+    "featured": false,
+    "listedOn": "2026-10-05",
+    "photos": [
+      {
+        "caption": "road",
+        "src": "/listings/ypa-mzg-2023/1.jpg"
+      },
+      {
+        "caption": "depth",
+        "src": "/listings/ypa-mzg-2023/2.jpg"
+      },
+      {
+        "caption": "market",
+        "src": "/listings/ypa-mzg-2023/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-BWP-3004",
+    "type": "residential-plot",
+    "status": "available",
+    "price": 7200000,
+    "area": {
+      "value": 10,
+      "unit": "marla"
+    },
+    "city": "bahawalpur",
+    "society": {
+      "en": "DHA Bahawalpur",
+      "ur": "ڈی ایچ اے بہاولپور"
+    },
+    "block": {
+      "en": "Sector A",
+      "ur": "سیکٹر A"
+    },
+    "coordinates": {
+      "lat": 29.34,
+      "lng": 71.61
+    },
+    "title": {
+      "en": "10 Marla plot near DHA main gate",
+      "ur": "ڈی ایچ اے مین گیٹ کے قریب 10 مرلہ پلاٹ"
+    },
+    "description": {
+      "en": "10 Marla plot in Sector A, a two-minute drive from the main gate. Possession has been handed over and the surrounding houses are under construction, so the area is filling up quickly.",
+      "ur": "سیکٹر A میں 10 مرلہ پلاٹ، مین گیٹ سے دو منٹ کی ڈرائیو پر۔ قبضہ دیا جا چکا ہے اور ارد گرد مکانات زیرِ تعمیر ہیں، اس لیے علاقہ تیزی سے آباد ہو رہا ہے۔"
+    },
+    "features": [
+      {
+        "en": "Possession",
+        "ur": "قبضہ دستیاب"
+      },
+      {
+        "en": "Near main gate",
+        "ur": "مین گیٹ کے قریب"
+      }
+    ],
+    "verified": true,
+    "featured": false,
+    "listedOn": "2026-10-19",
+    "photos": [
+      {
+        "caption": "frontage",
+        "src": "/listings/ypa-bwp-3004/1.jpg"
+      },
+      {
+        "caption": "boulevard",
+        "src": "/listings/ypa-bwp-3004/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-BWP-3012",
+    "type": "house",
+    "status": "available",
+    "price": 39000000,
+    "area": {
+      "value": 1,
+      "unit": "kanal"
+    },
+    "city": "bahawalpur",
+    "society": {
+      "en": "Model Town A",
+      "ur": "ماڈل ٹاؤن اے"
+    },
+    "block": {
+      "en": "Street 7",
+      "ur": "گلی نمبر 7"
+    },
+    "coordinates": {
+      "lat": 29.39,
+      "lng": 71.695
+    },
+    "beds": 6,
+    "baths": 7,
+    "title": {
+      "en": "1 Kanal house with basement",
+      "ur": "بیسمنٹ کے ساتھ 1 کنال مکان"
+    },
+    "description": {
+      "en": "Spacious 1 Kanal family home in Model Town A with six bedrooms, a full basement and a servant quarter. Well maintained, with a large front lawn and parking for three cars.",
+      "ur": "ماڈل ٹاؤن اے میں کشادہ 1 کنال فیملی گھر، چھ بیڈروم، مکمل بیسمنٹ اور سرونٹ کوارٹر۔ اچھی حالت میں، بڑا سامنے کا لان اور تین گاڑیوں کی پارکنگ۔"
+    },
+    "features": [
+      {
+        "en": "Basement",
+        "ur": "بیسمنٹ"
+      },
+      {
+        "en": "Servant quarter",
+        "ur": "سرونٹ کوارٹر"
+      },
+      {
+        "en": "Parking for 3 cars",
+        "ur": "3 گاڑیوں کی پارکنگ"
+      }
+    ],
+    "verified": true,
+    "featured": true,
+    "listedOn": "2026-10-15",
+    "photos": [
+      {
+        "caption": "elevation",
+        "src": "/listings/ypa-bwp-3012/1.jpg"
+      },
+      {
+        "caption": "lounge",
+        "src": "/listings/ypa-bwp-3012/2.jpg"
+      },
+      {
+        "caption": "lawn",
+        "src": "/listings/ypa-bwp-3012/3.jpg"
+      },
+      {
+        "caption": "basement",
+        "src": "/listings/ypa-bwp-3012/4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-BWP-3019",
+    "type": "commercial",
+    "status": "available",
+    "price": 9500000,
+    "area": {
+      "value": 2,
+      "unit": "marla"
+    },
+    "city": "bahawalpur",
+    "society": {
+      "en": "Circular Road",
+      "ur": "سرکلر روڈ"
+    },
+    "block": {
+      "en": "Farid Gate Market",
+      "ur": "فرید گیٹ مارکیٹ"
+    },
+    "coordinates": {
+      "lat": 29.396,
+      "lng": 71.683
+    },
+    "title": {
+      "en": "2 Marla running shop near Farid Gate",
+      "ur": "فرید گیٹ کے قریب 2 مرلہ چلتی دکان"
+    },
+    "description": {
+      "en": "Ground floor shop in the busy Farid Gate market, sold with its running cloth business or vacant on request. One of the old city's busiest trading streets.",
+      "ur": "فرید گیٹ کی مصروف مارکیٹ میں گراؤنڈ فلور دکان، چلتے ہوئے کپڑے کے کاروبار سمیت یا خالی حالت میں۔ اندرونِ شہر کی مصروف ترین تجارتی گلیوں میں سے ایک۔"
+    },
+    "features": [
+      {
+        "en": "Ground floor",
+        "ur": "گراؤنڈ فلور"
+      },
+      {
+        "en": "Running business",
+        "ur": "چلتا کاروبار"
+      }
+    ],
+    "verified": false,
+    "featured": false,
+    "listedOn": "2026-10-10",
+    "photos": [
+      {
+        "caption": "shopfront",
+        "src": "/listings/ypa-bwp-3019/1.jpg"
+      },
+      {
+        "caption": "bazaar",
+        "src": "/listings/ypa-bwp-3019/2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-LDN-4003",
+    "type": "agriculture-land",
+    "status": "available",
+    "price": 36000000,
+    "area": {
+      "value": 64,
+      "unit": "kanal"
+    },
+    "city": "lodhran",
+    "society": {
+      "en": "Kehror Pacca Road",
+      "ur": "کہروڑ پکا روڈ"
+    },
+    "block": {
+      "en": "Near Dunyapur",
+      "ur": "نزد دنیا پور"
+    },
+    "coordinates": {
+      "lat": 29.8,
+      "lng": 71.74
+    },
+    "title": {
+      "en": "8 Acre land with tube well",
+      "ur": "ٹیوب ویل کے ساتھ 8 ایکڑ زمین"
+    },
+    "description": {
+      "en": "Eight acres of cultivated land on the Kehror Pacca Road side of Dunyapur, currently growing cotton and wheat. It has an electric tube well with a sanctioned connection and a pakka path to the road.",
+      "ur": "دنیا پور کی جانب کہروڑ پکا روڈ پر آٹھ ایکڑ کاشت شدہ زمین، اس وقت کپاس اور گندم۔ منظور شدہ کنکشن کے ساتھ بجلی کا ٹیوب ویل اور سڑک تک پکا راستہ۔"
+    },
+    "features": [
+      {
+        "en": "Tube well",
+        "ur": "ٹیوب ویل"
+      },
+      {
+        "en": "Electricity connection",
+        "ur": "بجلی کا کنکشن"
+      }
+    ],
+    "verified": true,
+    "featured": false,
+    "listedOn": "2026-10-12",
+    "photos": [
+      {
+        "caption": "crop",
+        "src": "/listings/ypa-ldn-4003/1.jpg"
+      },
+      {
+        "caption": "tubewell",
+        "src": "/listings/ypa-ldn-4003/2.jpg"
+      },
+      {
+        "caption": "approach",
+        "src": "/listings/ypa-ldn-4003/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "YPA-KWL-5002",
+    "type": "farmhouse",
+    "status": "available",
+    "price": 22500000,
+    "area": {
+      "value": 4,
+      "unit": "kanal"
+    },
+    "city": "khanewal",
+    "society": {
+      "en": "Jahanian Road",
+      "ur": "جہانیاں روڈ"
+    },
+    "block": {
+      "en": "Chak 112/10-R",
+      "ur": "چک 112/10-آر"
+    },
+    "coordinates": {
+      "lat": 30.28,
+      "lng": 71.9
+    },
+    "beds": 3,
+    "baths": 3,
+    "title": {
+      "en": "4 Kanal weekend farmhouse with pool",
+      "ur": "سوئمنگ پول کے ساتھ 4 کنال ویک اینڈ فارم ہاؤس"
+    },
+    "description": {
+      "en": "Weekend farmhouse on 4 Kanal with a swimming pool, covered veranda and guava trees along the boundary. Three bedrooms, fully furnished. About 20 minutes from Khanewal city.",
+      "ur": "4 کنال پر ویک اینڈ فارم ہاؤس، سوئمنگ پول، چھتا ہوا برآمدہ اور حد کے ساتھ امرود کے درخت۔ تین بیڈروم، مکمل فرنشڈ۔ خانیوال شہر سے تقریباً 20 منٹ۔"
+    },
+    "features": [
+      {
+        "en": "Swimming pool",
+        "ur": "سوئمنگ پول"
+      },
+      {
+        "en": "Guava trees",
+        "ur": "امرود کے درخت"
+      },
+      {
+        "en": "Furnished",
+        "ur": "فرنشڈ"
+      }
+    ],
+    "verified": false,
+    "featured": true,
+    "listedOn": "2026-09-30",
+    "photos": [
+      {
+        "caption": "pool",
+        "src": "/listings/ypa-kwl-5002/1.jpg"
+      },
+      {
+        "caption": "veranda",
+        "src": "/listings/ypa-kwl-5002/2.jpg"
+      },
+      {
+        "caption": "gate",
+        "src": "/listings/ypa-kwl-5002/3.jpg"
+      }
+    ]
+  }
+]

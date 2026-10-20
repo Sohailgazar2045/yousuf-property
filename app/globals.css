@@ -1,0 +1,258 @@
+@import "tailwindcss";
+
+/*
+  Yousif Property Adviser design tokens.
+
+  Restrained palette: neutrals carry a trace of the brand's teal-emerald hue,
+  the brand colour is reserved for actions and selection, and WhatsApp green
+  appears only on controls that open a chat. Photography provides the warmth.
+*/
+@theme {
+  --font-sans: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
+
+  /* Brand: deep emerald, #004D40 at 800 */
+  --color-brand-50: oklch(0.972 0.012 179);
+  --color-brand-100: oklch(0.935 0.028 179);
+  --color-brand-200: oklch(0.865 0.052 179);
+  --color-brand-300: oklch(0.77 0.075 179);
+  --color-brand-500: oklch(0.56 0.088 179);
+  --color-brand-600: oklch(0.475 0.084 179);
+  --color-brand-700: oklch(0.42 0.076 179);
+  --color-brand-800: oklch(0.376 0.068 179);
+  --color-brand-900: oklch(0.31 0.055 179);
+  --color-brand-950: oklch(0.235 0.04 179);
+
+  /* Neutrals, tinted toward the brand hue. 500+ pass 4.5:1 on white. */
+  --color-slate-50: oklch(0.985 0.002 179);
+  --color-slate-100: oklch(0.966 0.004 179);
+  --color-slate-200: oklch(0.926 0.006 179);
+  --color-slate-300: oklch(0.872 0.008 179);
+  --color-slate-400: oklch(0.7 0.01 179);
+  --color-slate-500: oklch(0.525 0.012 179);
+  --color-slate-600: oklch(0.45 0.013 179);
+  --color-slate-700: oklch(0.37 0.014 179);
+  --color-slate-800: oklch(0.285 0.014 179);
+  --color-slate-900: oklch(0.215 0.013 179);
+  --color-slate-950: oklch(0.155 0.01 179);
+
+  --color-whatsapp: #25d366;
+  --color-whatsapp-hover: #20c15d;
+  --color-whatsapp-ink: #04311a;
+
+  --radius-card: 0.75rem;
+  --radius-control: 0.625rem;
+
+  --shadow-raise: 0 4px 8px -2px oklch(0.2 0.02 179 / 0.12), 0 1px 2px oklch(0.2 0.02 179 / 0.06);
+  --shadow-panel: 0 8px 8px -4px oklch(0.2 0.02 179 / 0.1), 0 2px 4px oklch(0.2 0.02 179 / 0.06);
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.16, 1, 0.3, 1);
+
+  --animate-pop: pop 320ms var(--ease-out);
+  --animate-rise: rise 420ms var(--ease-out) both;
+  --animate-fade: fade 200ms var(--ease-out) both;
+
+  @keyframes pop {
+    from { transform: scale(0.82); }
+    to { transform: scale(1); }
+  }
+
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: none; }
+  }
+
+  @keyframes fade {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  --animate-pop-in: pop-in 180ms var(--ease-out) both;
+  --animate-sheet-in: sheet-in 360ms var(--ease-out) both;
+
+  @keyframes pop-in {
+    from { opacity: 0; transform: translateY(-4px) scale(0.98); }
+    to { opacity: 1; transform: none; }
+  }
+
+  @keyframes sheet-in {
+    from { transform: translateY(100%); }
+    to { transform: none; }
+  }
+}
+
+@utility pt-safe {
+  padding-top: env(safe-area-inset-top);
+}
+
+@utility pb-safe {
+  padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility font-urdu {
+  font-family: var(--font-manrope), var(--font-naskh), sans-serif;
+}
+
+@utility font-nastaliq {
+  font-family: var(--font-manrope), var(--font-nastaliq), var(--font-naskh), sans-serif;
+  line-height: 2.05;
+}
+
+/* Sticky elements below the site header offset themselves by this. */
+:root {
+  --header-h: calc(4rem + env(safe-area-inset-top));
+}
+
+@media (width >= 64rem) {
+  :root {
+    --header-h: calc(4.5rem + env(safe-area-inset-top));
+  }
+}
+
+/*
+  Urdu: Manrope first so Latin text and digits (prices, phone numbers, reference
+  codes) match the English site; Manrope has no Arabic glyphs, so Urdu script
+  falls through to Noto Naskh. No letter-spacing: it breaks the joins in Arabic script.
+*/
+html[lang="ur"] {
+  --font-sans: var(--font-manrope), var(--font-naskh), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-manrope), var(--font-naskh), ui-sans-serif, system-ui, sans-serif;
+}
+
+
+html[lang="ur"] *,
+html[lang="ur"] *::before,
+html[lang="ur"] *::after {
+  letter-spacing: 0 !important;
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    scroll-padding-top: calc(var(--header-h) + 1rem);
+  }
+
+  body {
+    background: #fff;
+    color: var(--color-slate-900);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  /* Naskh needs more leading than Latin to stay readable; utilities can still override. */
+  html[lang="ur"] :where(p, li, dd) {
+    line-height: 1.85;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-brand-700);
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+/* Hero photos settle in from a slight zoom; the image is visible from the first frame. */
+@layer components {
+  .hero-image {
+    animation: hero-settle 1800ms var(--ease-out) both;
+  }
+
+  @keyframes hero-settle {
+    from { transform: scale(1.045); }
+    to { transform: scale(1); }
+  }
+}
+
+/*
+  Two native range inputs stacked on one track. The inputs ignore pointer events so
+  only their thumbs are grabbable, which is what lets both handles share the rail.
+*/
+@layer components {
+  .range-dual {
+    position: absolute;
+    inset-inline: 0;
+    top: 50%;
+    height: 24px;
+    width: 100%;
+    margin: 0;
+    transform: translateY(-50%);
+    appearance: none;
+    background: transparent;
+    pointer-events: none;
+  }
+
+  .range-dual::-webkit-slider-runnable-track {
+    height: 24px;
+    background: transparent;
+  }
+
+  .range-dual::-webkit-slider-thumb {
+    appearance: none;
+    pointer-events: auto;
+    width: 24px;
+    height: 24px;
+    border-radius: 9999px;
+    background: #fff;
+    border: 2px solid var(--color-brand-800);
+    box-shadow: 0 1px 3px oklch(0.2 0.02 179 / 0.25);
+    cursor: grab;
+    transition: box-shadow 160ms var(--ease-out);
+  }
+
+  .range-dual::-moz-range-thumb {
+    pointer-events: auto;
+    width: 20px;
+    height: 20px;
+    border-radius: 9999px;
+    background: #fff;
+    border: 2px solid var(--color-brand-800);
+    box-shadow: 0 1px 3px oklch(0.2 0.02 179 / 0.25);
+    cursor: grab;
+  }
+
+  .range-dual:active::-webkit-slider-thumb {
+    cursor: grabbing;
+    box-shadow: 0 0 0 6px oklch(0.376 0.068 179 / 0.14);
+  }
+
+  .range-dual:focus-visible {
+    outline: none;
+  }
+
+  .range-dual:focus-visible::-webkit-slider-thumb {
+    box-shadow: 0 0 0 4px oklch(0.376 0.068 179 / 0.3);
+  }
+
+  .range-dual:focus-visible::-moz-range-thumb {
+    box-shadow: 0 0 0 4px oklch(0.376 0.068 179 / 0.3);
+  }
+}
